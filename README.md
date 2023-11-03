@@ -1,5 +1,5 @@
 # test
 
-This is the main branch
+This is branch 2
 
 This was edited by branch1
